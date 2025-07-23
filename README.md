@@ -1,4 +1,4 @@
-![dashboard](dashboard_glimpse)
+![Dashboard Glimpse](https://raw.githubusercontent.com/rishranyal/Power-BI-Sales-Insights/main/dashboard_glimpse.png)
 
 # Power BI Sales Dashboard
 
