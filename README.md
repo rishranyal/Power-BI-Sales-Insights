@@ -50,7 +50,3 @@ This project is a Power BI dashboard built to visualize and analyze global sales
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
