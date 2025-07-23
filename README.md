@@ -1,3 +1,5 @@
+![dashboard](dashboard_glimpse)
+
 # Power BI Sales Dashboard
 
 This project is a Power BI dashboard built to visualize and analyze global sales data from the **Global Superstore 2016** dataset. It provides valuable insights into sales performance, customer segmentation, regional trends, and profitability.
